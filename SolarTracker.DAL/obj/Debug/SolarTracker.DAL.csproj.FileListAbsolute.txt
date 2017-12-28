@@ -1,0 +1,14 @@
+E:\Visual Studio 2015\Projects\SolarTracker\SolarTracker.DAL\bin\Debug\SolarTracker.DAL.dll
+E:\Visual Studio 2015\Projects\SolarTracker\SolarTracker.DAL\bin\Debug\SolarTracker.DAL.pdb
+E:\Visual Studio 2015\Projects\SolarTracker\SolarTracker.DAL\obj\Debug\SolarTracker.DAL.csprojResolveAssemblyReference.cache
+E:\Visual Studio 2015\Projects\SolarTracker\SolarTracker.DAL\obj\Debug\SolarTracker.DAL.dll
+E:\Visual Studio 2015\Projects\SolarTracker\SolarTracker.DAL\obj\Debug\SolarTracker.DAL.pdb
+E:\Visual Studio 2015\Projects\SolarTracker\SolarTracker.DAL\bin\Debug\MongoDB.Bson.dll
+E:\Visual Studio 2015\Projects\SolarTracker\SolarTracker.DAL\bin\Debug\MongoDB.Driver.Core.dll
+E:\Visual Studio 2015\Projects\SolarTracker\SolarTracker.DAL\bin\Debug\MongoDB.Driver.dll
+E:\Visual Studio 2015\Projects\SolarTracker\SolarTracker.DAL\bin\Debug\SolarTracker.Entities.dll
+E:\Visual Studio 2015\Projects\SolarTracker\SolarTracker.DAL\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Visual Studio 2015\Projects\SolarTracker\SolarTracker.DAL\bin\Debug\SolarTracker.Entities.pdb
+E:\Visual Studio 2015\Projects\SolarTracker\SolarTracker.DAL\bin\Debug\MongoDB.Bson.xml
+E:\Visual Studio 2015\Projects\SolarTracker\SolarTracker.DAL\bin\Debug\MongoDB.Driver.xml
+E:\Visual Studio 2015\Projects\SolarTracker\SolarTracker.DAL\bin\Debug\MongoDB.Driver.Core.xml
